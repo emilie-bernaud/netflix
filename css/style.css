@@ -1,0 +1,44 @@
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/box.css");
+
+
+h1
+{ 
+   font-family:  Netflix Sans;
+   font-size: 50px;
+   padding: 50px 5%;
+   color: white;
+}
+
+h2
+ {  
+   font-family:  Helvetica Neue
+   font-weight: lighter;
+   font-size: 20px;
+   margin-bottom: 30px;
+  }
+
+ h3
+  { 
+    font-family:  Arial
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: 30px;
+
+   }
+
+a
+{
+	color: grey;
+	text-decoration: none;
+}
+
+
+/*RESPONSIVE DESIGN */
+
+
+
+

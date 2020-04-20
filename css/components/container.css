@@ -1,0 +1,55 @@
+.bloc1
+{ 
+	  background-color: black;
+    border-bottom: 8px solid #222;
+    color: white;
+    display: flex;
+    padding: 21px 32px 88px 32px;
+    flex-basis: auto;
+    align-items: center;
+    justify-content: space-between;
+
+   }
+
+ .bloc2
+{ 
+	  font-family: Arial;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    border-bottom: 8px solid #222;
+    color: white;
+    align-items: center;
+    padding: 30px;
+    
+ }
+
+
+/*POLICE*/
+.bloc1 h1, .bloc2 h1
+{
+   font-family:  Verdana;
+   font-weight: bold;
+   font-size: 40px;
+   color: white;
+   margin-bottom: 25px;
+}
+.bloc1 h2, .bloc2 h2
+ {  
+   font-family:  Helvetica Neue, Helvetica, Arial, sans-serif; 
+   font-weight: lighter;
+   font-size: 30px;
+  }
+
+.bloc1 h3, .bloc2 h3
+  { 
+    font-family:  Helvetica Neue, Helvetica, Arial, sans-serif; 
+    font-weight: lighter;
+    font-size: 20px;
+
+   }
+
+ ul
+{ list-style: none; }
+
+
